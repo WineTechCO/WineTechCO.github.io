@@ -5,7 +5,7 @@ description: Compartiendo la pasión por la tecnología móvil. Únete a la comu
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: WineTechCO
-github_username:  WineTechCO
+github_username:  
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
@@ -22,6 +22,9 @@ more_vert:
   option3:
     name: Cool Option 3
     link: www.myawesomelink.com
+
+disqus: true
+disqus_shortname: 'winetech'
 
 # Build settings
 markdown: kramdown
