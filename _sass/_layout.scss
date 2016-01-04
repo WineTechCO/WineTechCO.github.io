@@ -72,6 +72,10 @@
     // background: url('../img/welcome_card.jpg') center / cover;
   }
 
+  .mdl-layout__header {
+    background-color: $brand-color;
+  }
+
   button {
     position: absolute;
     z-index: 99;
