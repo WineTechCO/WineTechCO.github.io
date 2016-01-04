@@ -4,6 +4,11 @@
 
 // Page container
 
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
 .page-content{
   max-width: 1200px;
   margin: 0 auto;
@@ -12,11 +17,14 @@
 // Cards styles
 .mdl-card {
   .mdl-card__title {
-    color: #000;
+    color: #fff;
     height: 176px;
-    background: url('../img/welcome_card.jpg') center / cover;
   }
 
+  .mdl-card__title-text {
+    display: none;
+  }
+  
   .mdl-card__supporting-text > span { color: #9F9F9F; }
 
   .mdl-card__menu {
@@ -69,10 +77,6 @@
     justify-content: center;
     min-height: 200px;
     // background: url('../img/welcome_card.jpg') center / cover;
-  }
-
-  .mdl-layout__header {
-    background-color: #d84735;
   }
 
   button {
