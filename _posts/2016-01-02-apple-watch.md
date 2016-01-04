@@ -2,7 +2,7 @@
 layout: post
 title:  "Reseña Apple Watch"
 date:   2016-01-02 16:00:00
-categories: Wine Tech
+categories: Gadgets
 author: Team Wine Tech
 image: https://s-media-cache-ak0.pinimg.com/736x/e6/52/78/e6527886a4b1abfb6c34db6e6bcec72f.jpg
 ---
