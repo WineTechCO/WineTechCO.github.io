@@ -12,7 +12,7 @@
 // Cards styles
 .mdl-card {
   .mdl-card__title {
-    color: #fff;
+    color: #000;
     height: 176px;
     background: url('../img/welcome_card.jpg') center / cover;
   }
@@ -68,7 +68,7 @@
     -ms-flex-pack: center;
     justify-content: center;
     min-height: 200px;
-    background: url('../img/welcome_card.jpg') center / cover;
+    // background: url('../img/welcome_card.jpg') center / cover;
   }
 
   button {
