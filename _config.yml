@@ -7,10 +7,10 @@ highlighter:         pygments
 permalink:           /:title
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
+timezone:            Bogotá # eg. Asia/Kathmandu
+locale:              es # eg. en_us
+name:				         Wine Tech
+title:               Compartiendo la pasión por la tecnología
 tagline:             'tagline'
 description:         'description'
 url:                 site url
@@ -21,13 +21,13 @@ baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
 baseurl_javascripts: '/assets/javascripts/'
 icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
-disqus:              disqus_shortname # get it on https://disqus.com/admin/
+disqus:              'winetech' # get it on https://disqus.com/admin/
 
 author:
   name:           	 your name
   url:            	 your site url
   facebook:          username
-  twitter:           username
+  twitter:           WineTechCO
   google_plus:       username
   linkedin:          username
   dribbble:          username

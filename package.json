@@ -1,12 +1,12 @@
 {
-  "name": "Mickey",
-  "version": "0.0.1",
-  "description": "A minimal one-column, responsive theme for Jekyll",
-  "homepage": "http://vincentchan.github.io/mickey",
-  "author": "Vincent Chan",
+  "name": "WineTech",
+  "version": "1.0.0",
+  "description": "Compartiendo la pasión por la tecnología",
+  "homepage": "http://winetechco.github.io/",
+  "author": "Wine Tech",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vincentchan"
+    "url": "https://github.com/WineTechCO"
   },
   "devDependencies": {
     "browser-sync": "~2.9.7",
