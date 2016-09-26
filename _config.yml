@@ -11,8 +11,8 @@ timezone:            Bogotá # eg. Asia/Kathmandu
 locale:              es # eg. en_us
 name:				         Wine Tech
 title:               Compartiendo la pasión por la tecnología
-tagline:             'tagline'
-description:         'description'
+tagline:             'Compartiendo la pasión por la tecnología'
+description:         'Compartiendo la pasión por la tecnología'
 url:                 site url
 rss:                 rss feed url
 baseurl:             '/'
