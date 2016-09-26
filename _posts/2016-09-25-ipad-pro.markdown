@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "Reseña del iPad Pro 9.7 inch"
+date:   2016-09-25 01:00:00
+last_modified_at:  2016-09-25 01:00:00
+author: Team Wine Tech
+excerpt: "Increíblemente rápido y liviano, pero ¿Funcional?"
+categories: apple
+tags:  ipad pro apple review
+image:
+  feature: ipad-pro.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+###Increíblemente rápido y liviano, pero ¿Funcional?
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ipad-pro-table.jpg);"></div>
+
+El iPad es como ese amigo que uno no sabe qué hace para vivir pero que siempre está dispuesto a echarle una mano y, con esta última versión, Apple está dispuesto a introducir el modelo de 9.7 pulgadas en el segmento profesional y/o de usuarios de alto rendimiento.
+
+En 2010, el iPad revolucionó el mercado al convertirse en la primera tablet que valía la pena (y el dinero) poseer. Era mágica, inspiradora y excitante, diseñada para ocupar un espacio entre el iPhone y el Mac. Tal vez desde ahí nunca supo con exactitud para qué vino al mundo, aunque su padre -Mr. Jobs- la promocionase como una herramienta de productividad y entretenimiento. Para 2011, el iPad 2 pulió los desaciertos de la primera generación y confirmó la afinidad de los usuarios respecto a ese nuevo mundo de las tablets. Sin embargo, los récords en ventas se han visto mermados en los últimos años por diferentes razones, pero principalmente dos: Por una parte, Apple entendió que ni sus usuarios más fieles saldrían  por  un nuevo iPad cada año -como sí lo hacen por el iPhone- porque el ciclo de una tablet  es mucho  más amplio  que  el  de  un smartphone. Por otra parte y volviendo al anterior, porque muchos usuarios no le encontraron un uso productivo -más allá del de un dispositivo de consumo- a sus iPads.
+
+No obstante, pese a que en los últimos trimestres fiscales el número de unidades ha ido disminuyendo, el iPad es un dispositivo que se vende a razón de 10 millones de unidades cada tres meses, nada mal para cualquier producto. Por eso, esta nueva apuesta de Apple radica en la creación de una nueva categoría, que atraiga a un nuevo segmento de usuarios, a un costo someramente más alto. Por consiguiente, puede que Apple no se equivoque, pues no todos los usuarios somos iguales ni tenemos las mismas necesidades.
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ipad-pro-flag.jpg);"></div>
+
+###Diseño
+
+El modelo que nos llegó a WineTech fue un Wi-Fi 32 GB color Oro (también es el único iPad en venir en Oro Rosa), el cual no se distingue mucho del Air o del Air 2, pero que es espectacularmente liviano (437 gramos) y muy agradable al tacto. Sin embargo, una vez se observa con más detalle, las diferencias empiezan a aflorar, como lo son sus 4 altavoces (uno en cada esquina y configurados por el acelerómetro), su cámara que sobresale (pero que al estar boca arriba no hace que la tablet cojee) y, por vez primera, True Tone flash y, al igual que su hermana de 12.9”, el ‘Smart Connector’ para conectar un teclado u otros accesorios sin necesidad de configurar nada adicional. Por supuesto y al igual que el Air 2 y el Mini 3 y 4, el Pro 9.7” también incorpora Touch ID, el cual es bastante rápido y preciso.
+
+Al respecto no hay mucho más que agregar, pues la verdad no esperamos menos calidad y refinamiento de un producto de Apple.
+
+###Procesadores
+
+Si en algo se destaca el nuevo iPad Pro (tanto de 9.7” como de 12.9”) es en su velocidad. Es el iPad -y muy seguramente la tablet- más rápido del mercado y, como veremos más adelante, la que cuenta con la mejor cámara y la mejor pantalla. Ambas versiones cuentan con el procesador de doble núcleo A9X, que por cuestiones de disipación de calor trabajan a 2.16 GHz (9.7”) y 2.26 GHz (12.9”). No obstante, la versión más grande cuenta con 4 GB de RAM, mientras que la de 9.7” ‘solo’ con 2 GB, lo cual se explica por la cantidad superior de pixeles que debe mover una pantalla más amplia. Aún así, en el uso de Apps cotidianas (a excepción del número de pestañas que Safari puede mantener cargadas) la diferencia es casi nula. Posiblemente, bajo el uso de apps que demanden más recursos se puede dar cuenta de la velocidad de ejecución.
+
+Como dato adicional, corriéndole un Geekbench 4, el iPad Pro 9.7” alcanzó 4734 en un test multi-núcleo, mientras que su hermana mayor estuvo 122 puntos por encima, por lo que reiteramos que es algo imperceptible en la vida real.
+
+Por su parte, un aspecto del que aún desconocemos las razones de Apple para no incluirlo en la versión de 9.7” es la capacidad de transferencia del puerto Lightning, porque mientras en el Pro de 12.9” mantiene velocidades de USB 3.0, en la tablet de 9.7” sigue siendo USB 2.0, ciertamente un sinsentido para profesionales audiovisuales. Posiblemente, Apple le esté apostando a la transferencia inalámbrica, pero cuando se trata de archivos en HD ó 4K no hay como recurrir a los cables.
+
+Finalmente, el iPad Pro 9.7” incorpora el coprocesador M9 dentro del procesador A9X, lo que le permite trabajar en conjunto con los otros sensores del dispositvo (acelerómetro, brújula, giroscopio y barómetro) a la más alta eficiencia. Por consiguiente y al igual que en el iPhone 6s, el M9 podrá calcular el ritmo de entreno sin utilizar el GPS, obteniendo grandes ahorros de batería. Claro, dudamos que alguien salga a entrenar con un iPad, pero es algo que los desarrolladores pueden aprovechar. Asimismo, dicho coprocesador permite mantener la función ‘Oye Siri’ siempre encendida, es decir, sin necesidad que la tablet esté enchufada. Por supuesto, Apple ya tranquilizó a los escépticos con respecto al tema de la privacidad. Ahora, no faltarán los fanáticos de Android que afirman que dicha función la tienen múltiples dispositivos desde hace años y sí, tienen razón. Pero pues tal vez nuestra privacidad esté más segura con Apple que con un desconocido fabricante de Android (solo digo, ¿No?).
+
+###Display
+
+Como mencioné anteriormente, el iPad Pro 9.7” tiene la mejor pantalla que cualquier otra tablet en el mercado y, si se quiere, que cualquier otro dispositivo, siendo superada solo por el iPhone 7 (y eso). A primera vista, parece igual que la del iPad Air 2, salvo por dos características que no comparte con ningún otro iPad en la gama: Wide Color Display y True Tone Display, siendo ésta última uno de los mayores atractivos de este dispositivo, porque gracias a él, sensores al interior del iPad adaptan el ‘color’ de la habitación o del espacio donde el usuario se encuentra y establece la temperatura de color indicada para la pantalla, dándole un pizca de naturalidad al contenido y aliviando el esfuerzo ocular. Es una función que hay que verla en persona para notar la diferencia y, creemos, será algo que muchos usuarios desearían tener en sus otros dispositivos.
+
+###Cámaras
+
+Al igual que el iPhone 6s/6s+ y SE, el Pro 9.7” trae un sensor de 12 MP en la cámara trasera (iSight), único en toda la gama y, por cierto, la mejor cámara que se haya puesto en un iPad. Claro, cualquiera se ve extraño utilizando una tablet como cámara, pero ahí está disponible para creadores de contenidos e ‘instafoodies’ por igual. Asimismo, es el único iPad en la gama con la capacidad de crear Live Photos (un GIF con sonido) y el primero con flash (True Tone Flash). En cuanto a la función de video, también es el primer iPad con la capacidad de grabar en 4K a 30 fps.
+
+Por otra parte, también es un iPad pensado para las ‘selfies’, pues su FaceTime HD Camera cuenta con un sensor de 5 MP, con la capacidad de grabar a 720p y -tal como en el 6s /6s+ y SE- con Retina Flash, la cual es una función que se desprende del procesador A9/A9, en donde la pantalla hace las veces de flash, poniéndola en blanco y máximo brillo por un segundo.
+
+Como cámara es fenomenal cuando la luz es suficiente, pues con baja luz los resultados varían. Lógicamente, no es algo práctico para tomar fotos, pero es bueno saber que está ahí y que funciona como se espera de una tablet de USD$640. Ahora bien, nos habría gustado ver Estabilización Óptica de Imagen (OIS) como en el iPhone 6+/6s+/7/7+, pero para ser eso -una tablet- está bastante bien.
+
+###Recap
+
+El iPad Pro 9.7” es el nuevo intento de Apple de convencernos que la era ‘post PC’ está aquí para quedarse. Sin embargo, no será fácil cambiar los hábitos de trabajo de un buen número de usuarios que no migrarían de macOS o Windows por la interfaz táctil de una tablet. No obstante, el Pro es un dispositivo que no decepciona sino que invita a ser utilizado y a reemplazar nuestro laptop para el 80 ó 90 porciento del trabajo que hacemos con él. De hecho, toda esta reseña la redacté en el modelo que probamos y, aunque extraño la capacidad de cambiar de ventana más rápido como en macOS, me doy cuenta que es más la costumbre que la complejidad que reviste. Finalmente y pese a que no lo pudimos probar a fondo, el Apple Pencil (el primer stylus hecho por Apple desde los tiempos de la Newton) es una herramienta esencial para diseñadores y artistas por igual. Aún con el poco tiempo que lo pude probar, es el mejor stylus que ha existido para el iPad, al cual se enlaza rápido y trabaja sin interrupciones.
+
+___
+
+###Pros
+
+* Rápido, muy rápido.
+* Liviano.
+* Buenas prestaciones acompañadas de un buen rendimiento de batería.
+
+###Cons
+
+* Costoso.
+* Accesorios costosos.
+* iOS limita su potencial.
+
+___
+
+*#TeamWineTech*

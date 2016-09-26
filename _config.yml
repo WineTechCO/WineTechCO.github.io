@@ -24,9 +24,9 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              'winetech' # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
+  name:           	 Team Wine Tech
   url:            	 your site url
-  facebook:          username
+  facebook:          WineTechCO
   twitter:           WineTechCO
   google_plus:       username
   linkedin:          username
