@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Bienvenido(a) a Wine Tech!"
+date:   2016-01-01 01:00:00
+last_modified_at:  2016-01-01 01:00:00
+author: Team Wine Tech
+excerpt: "En Wine Tech queremos compatir la pasión por la tecnología móvil..."
+categories: team
+tags:  winetech bienvenido
+image:
+  feature: winetech-logo.png
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+**Bienvenido(a) a Wine Tech!**
+En Wine Tech queremos compatir la pasión por la tecnología móvil.
+
+Esta comunidad nace con la intención de mostrarse como una alternativa y una fuente confiable de información al poco explorado mundo tecnológico en Colombia y América Latina.
+Sin embargo, no tenemos la intención de decirles a nuestros usuarios que un gadget tiene 3 GB de RAM, sino qué puede hacer con este a partir de sus prestaciones. Por consiguiente, así como en 1984 Apple dijo que el Macintosh era "el computador para el resto de nosotros", WineTech será el lugar donde la tecnología será para todos nosotros.
+Únete a nuestra comunidad y comparte con nosotros el placer por la tecnología móvil!
+
+*#TeamWineTech*

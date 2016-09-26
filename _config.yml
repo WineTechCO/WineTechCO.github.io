@@ -1,30 +1,51 @@
-# Site settings
-title: Wine Tech
-email: wine.tech.co@gmail.com
-description: Compartiendo la pasión por la tecnología móvil. Únete a la comunidad de Wine Tech. 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: WineTechCO
-github_username:  
 
-# Layout settings
-header_type: default  # values [ drawer, default ]
-post_type: highlight    # values [ highlight, default ]
-pagination_type: default  # values [ ops, default ]
+# Syntax highlighting
+markdown:            redcarpet
+highlighter:         pygments
 
-more_vert:
-  option1:
-    name: Cool Option 1
-    link: www.myawesomelink.com
-  option2:
-    name: Cool Option 2
-    link: www.myawesomelink.com
-  option3:
-    name: Cool Option 3
-    link: www.myawesomelink.com
+# Permalinks
+permalink:           /:title
 
-disqus: true
-disqus_shortname: 'winetech'
+# Setup
+timezone:            Bogotá # eg. Asia/Kathmandu
+locale:              es # eg. en_us
+name:				         Wine Tech
+title:               Compartiendo la pasión por la tecnología
+tagline:             'tagline'
+description:         'description'
+url:                 site url
+rss:                 rss feed url
+baseurl:             '/'
+baseurl_posts_img:   '/assets/images/posts/'
+baseurl_featured_img: '/assets/images/hero/'
+baseurl_featured_thumbnail: '/assets/images/thumbnail/'
+baseurl_javascripts: '/assets/javascripts/'
+icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
+disqus:              'winetech' # get it on https://disqus.com/admin/
 
-# Build settings
-markdown: kramdown
+author:
+  name:           	 Team Wine Tech
+  url:            	 your site url
+  facebook:          WineTechCO
+  twitter:           WineTechCO
+  google_plus:       username
+  linkedin:          username
+  dribbble:          username
+  pinterest:         username
+  kiva:              username
+
+fb_admins:           your facebook profile id
+fb_appid:            your facebook app id
+
+# Server
+destination:      	 ./_site
+exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
+port:             	 9001
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "default"
