@@ -24,8 +24,6 @@ En 2010, el iPad revolucionó el mercado al convertirse en la primera tablet que
 
 No obstante, pese a que en los últimos trimestres fiscales el número de unidades ha ido disminuyendo, el iPad es un dispositivo que se vende a razón de 10 millones de unidades cada tres meses, nada mal para cualquier producto. Por eso, esta nueva apuesta de Apple radica en la creación de una nueva categoría, que atraiga a un nuevo segmento de usuarios, a un costo someramente más alto. Por consiguiente, puede que Apple no se equivoque, pues no todos los usuarios somos iguales ni tenemos las mismas necesidades.
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ipad-pro-flag.jpg);"></div>
-
 ### Diseño
 
 El modelo que nos llegó a WineTech fue un Wi-Fi 32 GB color Oro (también es el único iPad en venir en Oro Rosa), el cual no se distingue mucho del Air o del Air 2, pero que es espectacularmente liviano (437 gramos) y muy agradable al tacto. Sin embargo, una vez se observa con más detalle, las diferencias empiezan a aflorar, como lo son sus 4 altavoces (uno en cada esquina y configurados por el acelerómetro), su cámara que sobresale (pero que al estar boca arriba no hace que la tablet cojee) y, por vez primera, True Tone flash y, al igual que su hermana de 12.9”, el ‘Smart Connector’ para conectar un teclado u otros accesorios sin necesidad de configurar nada adicional. Por supuesto y al igual que el Air 2 y el Mini 3 y 4, el Pro 9.7” también incorpora Touch ID, el cual es bastante rápido y preciso.
